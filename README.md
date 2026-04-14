@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Vashu Tomar
 
-<!--
-**tomarvashu/TomarVashu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at the intersection of operations, automation, and AI.
 
-Here are some ideas to get you started:
+My focus is on building systems that solve real business problems — especially in reporting, workflow automation, operational visibility, and decision support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+- AI-powered workflow automation
+- Business operations systems
+- Reporting and decision-support tools
+- Internal dashboards and structured process design
+- Practical applications of Python, APIs, LLMs, and n8n
+
+## Current direction
+I am building toward becoming a strong Applied AI / AI Automation Engineer by turning real business problems into scalable systems.
+
+## Tech stack
+- Python
+- n8n
+- APIs
+- LLMs
+- Excel / Google Sheets
+- Workflow automation
+- System design
+
+## Current focus areas
+- AI report analysis systems
+- Automation for business workflows
+- Operations intelligence tools
+- System-first problem solving
+
+## Connect
+- LinkedIn: www.linkedin.com/in/tomarvashu
