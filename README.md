@@ -51,7 +51,6 @@ Built an automated YouTube publishing workflow using structured inputs, AI-gener
 Built a Retrieval-Augmented Generation chatbot workflow using OpenAI and MongoDB Atlas Vector Search. The system ingests documents, stores them in a vector database, and enables context-aware question answering through an AI agent with retrieval and memory.
 
 **My role:** Conceived the use case, defined the retrieval logic, and actively participated in design, testing, and refinement with internal team support.
----
 
 ## Skills
 
