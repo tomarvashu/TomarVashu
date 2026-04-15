@@ -42,26 +42,15 @@ Automated employee payslip generation and email delivery using workflow automati
 
 **My role:** Initiated the project, designed the workflow logic, and actively drove execution and refinement through internal team support.
 
-### Twitter Automation
-Built an automation workflow for content generation and posting. The system takes structured content inputs, generates tweet-ready content using AI, and supports publishing workflows with minimal manual effort.
+### [YouTube Automation](https://github.com/tomarvashu/youtube-automation)
+Built an automated YouTube publishing workflow using structured inputs, AI-generated descriptions, and upload automation. The system reads pending entries, prepares metadata, downloads the selected video, uploads it to YouTube, and updates the source status automatically.
 
-**My role:** Defined the use case, workflow structure, and implementation direction, while guiding execution and testing.
+**My role:** Initiated the project, defined the workflow structure, and actively drove execution and refinement through internal team support.
 
-### Blog Automation
-Designed an end-to-end blog automation workflow to generate content, format it, and support publishing readiness with SEO-focused metadata.
+### [RAG Chatbot](https://github.com/tomarvashu/rag-chatbot)
+Built a Retrieval-Augmented Generation chatbot workflow using OpenAI and MongoDB Atlas Vector Search. The system ingests documents, stores them in a vector database, and enables context-aware question answering through an AI agent with retrieval and memory.
 
-**My role:** Initiated and shaped the workflow, including content logic, structure, and execution flow.
-
-### RAG Chatbot
-Worked on an internal knowledge-retrieval chatbot concept using retrieval-augmented generation. The system was designed to improve information access and reduce manual searching across structured documents and business information.
-
-**My role:** Conceived the use case, defined the logic flow, and actively participated in design, testing, and refinement.
-
-### YouTube Automation
-Built an automated workflow for publishing support, including metadata generation, content preparation, and upload handling using structured inputs and AI-generated descriptions.
-
-**My role:** Led workflow design and implementation direction, with hands-on involvement in setup and optimization.
-
+**My role:** Conceived the use case, defined the retrieval logic, and actively participated in design, testing, and refinement with internal team support.
 ---
 
 ## Skills
