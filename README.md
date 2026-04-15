@@ -37,7 +37,7 @@ This GitHub reflects both my current work and the technical direction I am activ
 
 ## Selected Projects
 
-### Automatic Payslip
+### [Automatic Payslip](https://github.com/tomarvashu/automatic-payslip)
 Automated employee payslip generation and email delivery using workflow automation. The system reads payroll data, generates formatted payslips, converts them into PDFs, sends them through email, and updates delivery status automatically.
 
 **My role:** Initiated the project, designed the workflow logic, and actively drove execution and refinement through internal team support.
