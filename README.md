@@ -35,6 +35,17 @@ This GitHub reflects both my current work and my ongoing technical development. 
 - Built strong capability in mentoring, technical communication, and structured problem-solving through teaching and instructor leadership
 
 ---
+## Note on My Project Contribution
+
+Most of the projects here were initiated by me during a phase when I was more directly involved in technical execution.
+
+As my role later expanded into broader **Operations & Technology leadership**, my contribution in several of these projects shifted away from full implementation and more toward problem definition, workflow design, execution guidance, review, and alignment with business needs.
+
+Because of that, these repositories reflect a mix of:
+- early hands-on contribution
+- project initiation
+- workflow and system direction
+- and later-stage guidance and oversight
 
 ## Selected Projects
 
