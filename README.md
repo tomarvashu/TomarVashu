@@ -1,20 +1,21 @@
 # Vashu Tomar
-### Operations & Technology Lead | Reporting, Automation & Building toward Data Engineering
+### Operations & Technology Lead | Driving reporting, automation, and system-led business execution
 
 ## About Me
-I currently work at the intersection of business operations, reporting, automation, and technology execution in a multi-branch B2B industrial organisation.
 
-Over the past year, I progressed from data research and reporting support into Operations & Technology leadership, where I now work directly with leadership on reporting systems, workflow design, execution reviews, and internal technology initiatives.
+I currently work at the intersection of operations, reporting, automation, and internal systems in a multi-branch B2B industrial organisation.
 
-My work is focused on turning real business problems into practical systems — whether through structured reporting, workflow improvements, automation, or internal tools that improve visibility, follow-up, and execution quality.
+Over the past year, I progressed from data research and reporting support into broader Operations & Technology leadership. In my current role, I work directly with leadership on reporting systems, workflow design, execution reviews, and internal technology initiatives that improve visibility, follow-up, and operational clarity.
 
-This GitHub reflects both my current work and the technical direction I am actively building toward. While my present role is rooted in operations, reporting, and automation, I am now strengthening my depth in Python, SQL, and structured data work with a growing long-term focus on data engineering.
+My work is focused on turning practical business problems into structured systems — through reporting mechanisms, workflow improvements, automation, and internal tools that strengthen execution.
+
+This GitHub reflects both my current work and my ongoing technical development. While my present role is rooted in operations, reporting, and automation, I am also deliberately strengthening my hands-on depth in Python, SQL, and structured data work.
 
 - Strong foundation in Python, SQL, reporting systems, and workflow design  
-- Hands-on exposure to Generative AI, automation workflows, and internal tool building  
+- Hands-on exposure to workflow automation, internal tool building, and AI-assisted use cases  
 - Experience leading internal execution through a 4-member technology and automation team  
-- Currently building stronger technical depth in Python, SQL, and data-focused systems  
-- Interested in practical systems that connect operations, workflows, data, and automation  
+- Interested in practical systems that connect operations, workflows, reporting, and automation  
+- Currently rebuilding deeper technical consistency in Python, SQL, and data-oriented problem solving  
 
 ---
 
@@ -38,19 +39,21 @@ This GitHub reflects both my current work and the technical direction I am activ
 ## Selected Projects
 
 ### [Automatic Payslip](https://github.com/tomarvashu/automatic-payslip)
-Automated employee payslip generation and email delivery using workflow automation. The system reads payroll data, generates formatted payslips, converts them into PDFs, sends them through email, and updates delivery status automatically.
+Automated employee payslip generation and email delivery through workflow automation. The system reads payroll data, generates formatted payslips, converts them into PDFs, sends them by email, and updates delivery status automatically.
 
-**My role:** Initiated the project, designed the workflow logic, and actively drove execution and refinement through internal team support.
+**My role:** I initiated the project, shaped the workflow logic, and drove execution and refinement with internal team support.
 
 ### [YouTube Automation](https://github.com/tomarvashu/youtube-automation)
 Built an automated YouTube publishing workflow using structured inputs, AI-generated descriptions, and upload automation. The system reads pending entries, prepares metadata, downloads the selected video, uploads it to YouTube, and updates the source status automatically.
 
-**My role:** Initiated the project, defined the workflow structure, and actively drove execution and refinement through internal team support.
+**My role:** I initiated the project, defined the workflow structure, and guided execution and refinement with internal team support.
 
 ### [RAG Chatbot](https://github.com/tomarvashu/rag-chatbot)
-Built a Retrieval-Augmented Generation chatbot workflow using OpenAI and MongoDB Atlas Vector Search. The system ingests documents, stores them in a vector database, and enables context-aware question answering through an AI agent with retrieval and memory.
+Built a Retrieval-Augmented Generation chatbot workflow using OpenAI and MongoDB Atlas Vector Search. The system ingests documents, stores them in a vector database, and enables context-aware question answering through retrieval and memory.
 
-**My role:** Conceived the use case, defined the retrieval logic, and actively participated in design, testing, and refinement with internal team support.
+**My role:** I defined the use case, shaped the retrieval logic, and contributed to design, testing, and refinement with internal team support.
+
+---
 
 ## Skills
 
@@ -63,6 +66,7 @@ Built a Retrieval-Augmented Generation chatbot workflow using OpenAI and MongoDB
 ---
 
 ## Current Direction
+
 I am currently focused on strengthening my technical depth in Python, SQL, structured data work, and system design while continuing to build practical tools that improve reporting, execution, and operational efficiency.
 
-My longer-term direction is toward building systems that connect data, workflows, and automation in a practical business environment, with a growing focus on data engineering.
+My long-term direction is toward building stronger capability in data-oriented systems that connect reporting, workflows, automation, and business execution.
